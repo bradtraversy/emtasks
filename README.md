@@ -1,7 +1,7 @@
 # Emtasks
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+EmTasks is a simple task manager built with the Ember.js framework. This app accompanies the video series 
+ [located here](https://www.youtube.com/watch?v=owDmPTSJkrg)
 
 ## Prerequisites
 
